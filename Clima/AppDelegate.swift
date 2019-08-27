@@ -1,9 +1,9 @@
 //
-//  AppDelegate.swift
-//  Clima
+//  WeatherDataModel.swift
+//  WeatherApp
 //
-//  Created by Angela Yu on 04/09/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Eric Palumbo on 26/08/2019.
+//  Copyright (c) Eric Palumbo. All rights reserved.
 //
 
 import UIKit
